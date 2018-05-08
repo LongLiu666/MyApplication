@@ -23,6 +23,13 @@ import com.example.liulong.myapplication.service.WhiteService;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
 
+    /********
+     *
+     * jfjsjjsjjj  ceshishh
+     */
+
+
+
     private final static String TAG = MainActivity.class.getSimpleName();
     /**
      * 黑色唤醒广播的action
